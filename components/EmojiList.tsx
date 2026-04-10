@@ -1,11 +1,11 @@
 import { Image } from "expo-image";
 import { useState } from "react";
 import {
-    FlatList,
-    ImageSourcePropType,
-    Platform,
-    Pressable,
-    StyleSheet,
+  FlatList,
+  ImageSourcePropType,
+  Platform,
+  Pressable,
+  StyleSheet,
 } from "react-native";
 
 type Props = {
